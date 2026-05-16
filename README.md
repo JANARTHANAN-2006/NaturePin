@@ -151,7 +151,7 @@ Android Application
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NaturePin.git
+git clone https://github.com/JANARTHANAN-2006/NaturePin.git
 ```
 
 ---
@@ -161,8 +161,8 @@ git clone https://github.com/YOUR_USERNAME/NaturePin.git
 Create a `local.properties` file and add:
 
 ```properties
-SUPABASE_URL=YOUR_SUPABASE_URL
-SUPABASE_KEY=YOUR_SUPABASE_KEY
+SUPABASE_URL=YOUR_SUPABASE_URL:https://pfmyrgsvwnvtqzjgicdm.supabase.co
+SUPABASE_KEY=YOUR_SUPABASE_KEY:sb_publishable_yBysASZY8s3hvlFE-WF-QA_dMiQqZ-z
 ```
 
 ---
